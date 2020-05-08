@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import TechItem from './TechItem';
-import { connect, useSelector, useDispatch } from 'react-redux';
+import { useSelector, useDispatch } from 'react-redux';
 import PropTypes from 'prop-types';
 import { getTechs } from '../../action/techAction';
 
