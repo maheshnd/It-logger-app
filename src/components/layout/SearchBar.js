@@ -1,4 +1,4 @@
-import React, { useRef } from 'react';
+import React from 'react';
 import { connect } from 'react-redux';
 import { searchLogs } from '../../action/logAction';
 import PropTypes from 'prop-types';
